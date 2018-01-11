@@ -1,0 +1,9 @@
+check_array
+check_X_y
+RegressorMixin
+np
+pairwise_kernels
+BaseEstimator
+KernelRidge
+_solve_cholesky_kernel
+check_is_fitted

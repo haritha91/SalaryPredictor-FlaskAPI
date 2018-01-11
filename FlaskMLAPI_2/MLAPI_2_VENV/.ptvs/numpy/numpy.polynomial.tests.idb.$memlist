@@ -1,0 +1,9 @@
+test_laguerre
+test_legendre
+test_classes
+test_hermite_e
+test_printing
+test_hermite
+test_polyutils
+test_polynomial
+test_chebyshev

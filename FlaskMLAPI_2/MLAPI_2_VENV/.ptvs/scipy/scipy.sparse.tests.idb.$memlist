@@ -1,0 +1,9 @@
+test_construct
+test_spfuncs
+test_matrix_io
+test_extract
+test_csr
+test_csc
+test_sparsetools
+test_sputils
+test_base

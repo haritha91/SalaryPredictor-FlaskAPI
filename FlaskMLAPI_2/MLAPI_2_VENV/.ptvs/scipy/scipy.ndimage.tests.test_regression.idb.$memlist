@@ -1,0 +1,10 @@
+assert_array_almost_equal
+absolute_import
+test_gh_issue_3025
+ndimage
+np
+division
+print_function
+test_zoom_output_shape
+test_ticket_742
+test_byte_order_median

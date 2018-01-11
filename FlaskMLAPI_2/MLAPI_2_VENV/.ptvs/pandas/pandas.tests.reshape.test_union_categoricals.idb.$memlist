@@ -1,0 +1,9 @@
+pd
+tm
+Categorical
+np
+Series
+CategoricalIndex
+pytest
+TestUnionCategoricals
+union_categoricals

@@ -1,0 +1,13 @@
+__doc__
+__file__
+__loader__
+__name__
+__package__
+__spec__
+__version__
+euclidean_pdist
+inner1d
+inner1d_no_doc
+innerwt
+matrix_multiply
+test_signature

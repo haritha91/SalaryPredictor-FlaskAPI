@@ -1,0 +1,13 @@
+__doc__
+__file__
+__loader__
+__name__
+__package__
+__spec__
+test_call_nodata
+test_call_nonlocal
+test_call_simple
+test_get_data_capsule
+test_get_plus1_capsule
+test_get_plus1b_capsule
+test_get_plus1bc_capsule

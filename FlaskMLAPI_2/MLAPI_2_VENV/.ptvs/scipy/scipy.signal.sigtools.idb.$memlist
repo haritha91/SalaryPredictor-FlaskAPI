@@ -1,0 +1,12 @@
+__doc__
+__file__
+__loader__
+__name__
+__package__
+__spec__
+_convolve2d
+_correlateND
+_linear_filter
+_medfilt2d
+_order_filterND
+_remez

@@ -1,0 +1,11 @@
+pd
+TestWhereCoercion
+tm
+CoercionBase
+TestSetitemCoercion
+TestFillnaSeriesCoercion
+compat
+TestInsertIndexCoercion
+pytest
+TestReplaceSeriesCoercion
+np

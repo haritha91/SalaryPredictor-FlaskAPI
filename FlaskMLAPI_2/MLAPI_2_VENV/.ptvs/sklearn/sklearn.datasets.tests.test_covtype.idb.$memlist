@@ -1,0 +1,5 @@
+fetch
+assert_equal
+test_fetch
+SkipTest
+fetch_covtype

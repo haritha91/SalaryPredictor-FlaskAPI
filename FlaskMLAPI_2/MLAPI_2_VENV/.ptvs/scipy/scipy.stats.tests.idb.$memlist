@@ -1,0 +1,16 @@
+test_binned_statistic
+test_stats
+test_discrete_distns
+test_morestats
+test_distributions
+test_contingency
+test_multivariate
+common_tests
+test_discrete_basic
+test_kdeoth
+test_mstats_extras
+test_rank
+test_fit
+test_continuous_basic
+test_tukeylambda_stats
+test_mstats_basic

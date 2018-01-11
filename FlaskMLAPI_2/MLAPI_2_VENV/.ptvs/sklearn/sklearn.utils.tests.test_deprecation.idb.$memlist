@@ -1,0 +1,17 @@
+DeprecationDict
+MockClass1
+pickle
+test_pickle
+SkipTest
+MockClass4
+sys
+deprecated
+assert_warns_message
+MockClass3
+test_deprecationdict
+test_is_deprecated
+assert_no_warnings
+mock_function
+_is_deprecated
+MockClass2
+test_deprecated

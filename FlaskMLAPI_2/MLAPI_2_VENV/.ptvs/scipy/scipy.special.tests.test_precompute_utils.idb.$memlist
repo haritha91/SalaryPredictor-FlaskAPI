@@ -1,0 +1,13 @@
+mp_assert_allclose
+lagrange_inversion
+sympy
+absolute_import
+check_version
+np
+division
+TestInversion
+print_function
+MissingModule
+pytest
+_is_32bit_platform
+mp

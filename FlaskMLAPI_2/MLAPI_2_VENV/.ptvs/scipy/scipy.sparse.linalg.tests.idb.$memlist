@@ -1,0 +1,5 @@
+test_norm
+test_expm_multiply
+test_onenormest
+test_interface
+test_matfuncs

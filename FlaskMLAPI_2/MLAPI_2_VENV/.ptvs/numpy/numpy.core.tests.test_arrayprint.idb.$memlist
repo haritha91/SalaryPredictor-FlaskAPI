@@ -1,0 +1,16 @@
+run_module_suite
+np
+test_unicode_object_array
+TestComplexArray
+TestPrintOptions
+textwrap
+assert_warns
+sys
+absolute_import
+TestArrayRepr
+print_function
+division
+assert_raises
+assert_
+TestArray2String
+assert_equal

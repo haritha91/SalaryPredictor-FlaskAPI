@@ -1,0 +1,17 @@
+__all__
+BarycentricInterpolator
+division
+barycentric_interpolate
+_Interpolator1DWithDerivatives
+krogh_interpolate
+_Interpolator1D
+absolute_import
+xrange
+print_function
+KroghInterpolator
+approximate_taylor_polynomial
+warnings
+_asarray_validated
+factorial
+_isscalar
+np

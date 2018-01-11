@@ -1,0 +1,12 @@
+openblas_lapack_info
+extra_dll_dir
+os
+blas_mkl_info
+openblas_info
+lapack_mkl_info
+get_info
+show
+blas_opt_info
+__all__
+lapack_opt_info
+blis_info

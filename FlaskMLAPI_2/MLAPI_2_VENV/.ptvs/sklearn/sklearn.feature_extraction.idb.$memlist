@@ -1,0 +1,12 @@
+FeatureHasher
+text
+hashing
+dict_vectorizer
+grid_to_graph
+DictVectorizer
+img_to_graph
+image
+__all__
+_hashing
+stop_words
+setup

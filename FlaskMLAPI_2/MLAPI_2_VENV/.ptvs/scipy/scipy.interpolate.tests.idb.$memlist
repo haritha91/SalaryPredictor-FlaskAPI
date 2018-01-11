@@ -1,0 +1,12 @@
+test_ndgriddata
+test_fitpack2
+test_gil
+test_regression
+test_interpolate
+test_fitpack
+test_polyint
+test_bsplines
+test_interpnd
+test_rbf
+test_pade
+test_interpolate_wrapper

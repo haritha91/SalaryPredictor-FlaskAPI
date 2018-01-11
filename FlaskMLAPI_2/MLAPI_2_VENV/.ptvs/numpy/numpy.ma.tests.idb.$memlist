@@ -1,0 +1,7 @@
+test_deprecations
+test_regression
+test_subclassing
+test_old_ma
+test_mrecords
+test_core
+test_extras

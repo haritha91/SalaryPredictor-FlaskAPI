@@ -1,0 +1,6 @@
+test_compression
+test_pandas
+test_readlines
+test_normalize
+test_ujson
+test_json_table_schema

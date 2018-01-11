@@ -1,0 +1,7 @@
+test_integrate
+test_ivp
+test_banded_ode_solvers
+test_quadpack
+test_odeint_jac
+test_quadrature
+test_bvp

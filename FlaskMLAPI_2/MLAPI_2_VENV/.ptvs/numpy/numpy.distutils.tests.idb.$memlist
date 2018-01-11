@@ -1,0 +1,7 @@
+test_fcompiler_intel
+test_fcompiler_gnu
+test_npy_pkg_config
+test_exec_command
+test_fcompiler_nagfor
+test_system_info
+test_misc_util

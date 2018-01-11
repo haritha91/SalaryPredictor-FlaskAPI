@@ -1,0 +1,16 @@
+np
+makedirs
+joblib
+logger
+MODULE_DOCS
+RemoteFileMetadata
+logging
+_pkl_filepath
+_fetch_remote
+ARCHIVE
+Bunch
+tarfile
+remove
+fetch_california_housing
+get_data_home
+exists

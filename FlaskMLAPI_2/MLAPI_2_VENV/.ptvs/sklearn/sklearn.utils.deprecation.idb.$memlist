@@ -1,0 +1,7 @@
+_is_deprecated
+__all__
+warnings
+deprecated
+DeprecationDict
+functools
+sys

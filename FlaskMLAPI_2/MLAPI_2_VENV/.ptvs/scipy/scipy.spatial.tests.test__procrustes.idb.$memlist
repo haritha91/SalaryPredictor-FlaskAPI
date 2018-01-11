@@ -1,0 +1,10 @@
+assert_raises
+absolute_import
+assert_allclose
+np
+division
+print_function
+TestProcrustes
+assert_equal
+assert_almost_equal
+procrustes

@@ -1,0 +1,6 @@
+test_mmio
+test_paths
+test_wavfile
+test_idl
+test_netcdf
+test_fortran

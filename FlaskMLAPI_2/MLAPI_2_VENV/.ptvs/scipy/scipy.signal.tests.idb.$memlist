@@ -1,0 +1,16 @@
+test_waveforms
+test_cont2discrete
+test_max_len_seq
+test_savitzky_golay
+test_peak_finding
+test_ltisys
+test_wavelets
+mpsig
+test_dltisys
+test_filter_design
+test_array_tools
+test_spectral
+test_windows
+test_fir_filter_design
+test_upfirdn
+test_signaltools

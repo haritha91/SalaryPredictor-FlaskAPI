@@ -1,0 +1,14 @@
+test_bayesian_ridge_parameter
+SkipTest
+Ridge
+test_return_std
+test_toy_ard_object
+np
+test_toy_bayesian_ridge_object
+BayesianRidge
+assert_array_almost_equal
+assert_array_equal
+ARDRegression
+assert_almost_equal
+datasets
+test_bayesian_on_diabetes

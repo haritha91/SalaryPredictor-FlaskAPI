@@ -1,0 +1,14 @@
+check_array
+discretize
+check_random_state
+ClusterMixin
+as_float_array
+np
+pairwise_kernels
+BaseEstimator
+SpectralClustering
+k_means
+spectral_embedding
+spectral_clustering
+warnings
+kneighbors_graph

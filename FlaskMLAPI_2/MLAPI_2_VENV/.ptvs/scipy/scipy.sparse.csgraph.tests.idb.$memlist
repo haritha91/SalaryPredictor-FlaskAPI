@@ -1,0 +1,7 @@
+test_traversal
+test_spanning_tree
+test_shortest_path
+test_graph_laplacian
+test_connected_components
+test_reordering
+test_conversions

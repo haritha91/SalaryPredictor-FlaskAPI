@@ -1,0 +1,4 @@
+lapack
+cython_lapack
+assert_allclose
+TestLamch

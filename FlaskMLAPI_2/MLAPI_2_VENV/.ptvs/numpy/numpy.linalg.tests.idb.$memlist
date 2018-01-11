@@ -1,0 +1,4 @@
+test_linalg
+test_regression
+test_deprecations
+test_build

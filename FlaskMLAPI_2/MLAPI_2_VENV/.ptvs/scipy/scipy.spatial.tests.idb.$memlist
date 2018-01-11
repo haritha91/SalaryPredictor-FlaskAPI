@@ -1,0 +1,7 @@
+test_kdtree
+test_spherical_voronoi
+test_qhull
+test__plotutils
+test_hausdorff
+test_distance
+test__procrustes

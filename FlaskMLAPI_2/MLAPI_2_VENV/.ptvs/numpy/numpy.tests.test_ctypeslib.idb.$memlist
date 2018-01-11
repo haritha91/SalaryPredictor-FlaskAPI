@@ -1,0 +1,16 @@
+run_module_suite
+np
+print_function
+ndpointer
+cdll
+dec
+_HAS_CTYPE
+TestLoadLibrary
+absolute_import
+division
+TestNdpointer
+assert_raises
+assert_
+get_shared_lib_extension
+load_library
+sys

@@ -1,0 +1,6 @@
+pow
+assert_equal
+TestTnc
+assert_allclose
+np
+optimize

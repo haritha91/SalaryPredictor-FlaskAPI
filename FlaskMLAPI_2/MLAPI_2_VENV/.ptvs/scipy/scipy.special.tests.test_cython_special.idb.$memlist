@@ -1,0 +1,15 @@
+int_points
+special
+product
+absolute_import
+complex_points
+_generate_test_points
+division
+real_points
+print_function
+CYTHON_SIGNATURE_MAP
+TEST_POINTS
+pytest
+assert_allclose
+test_cython_api
+cython_special

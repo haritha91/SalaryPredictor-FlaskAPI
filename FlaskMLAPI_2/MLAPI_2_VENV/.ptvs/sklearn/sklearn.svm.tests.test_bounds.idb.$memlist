@@ -1,0 +1,16 @@
+np
+dense_X
+test_unsupported_loss
+test_l1_min_c
+sp
+LinearSVC
+Y2
+sparse_X
+test_ill_posed_min_c
+Y1
+assert_raise_message
+l1_min_c
+assert_true
+raises
+LogisticRegression
+check_l1_min_c

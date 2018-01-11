@@ -1,0 +1,17 @@
+install_text
+deinstall_text
+_remove
+MB_ICONWARNING
+windll
+os
+directory
+title
+MB_YESNO
+sys
+is_cache
+IDYES
+res
+silent
+text
+shutil
+IDNO

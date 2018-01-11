@@ -1,0 +1,9 @@
+test_ball_tree
+test_quad_tree
+test_lof
+test_dist_metrics
+test_neighbors
+test_nearest_centroid
+test_kd_tree
+test_kde
+test_approximate
