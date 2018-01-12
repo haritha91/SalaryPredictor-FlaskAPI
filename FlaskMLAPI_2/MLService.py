@@ -13,7 +13,7 @@ def predict():
             data = request.get_json()
             years_of_experience = float(data["yearsOfExperience"])
             
-            lin_reg = joblib.load("./linear_regression_model.pkl")
+            lin_reg = joblib.load("./pickle/linear_regression_model.pkl")
         except ValueError:
             return jsonify("Please enter a number.")
 

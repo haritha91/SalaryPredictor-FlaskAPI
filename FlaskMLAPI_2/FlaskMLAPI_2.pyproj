@@ -41,13 +41,17 @@
     <Compile Include="MLService.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="SalaryPrediction.py">
+    <Compile Include="model\SalaryPrediction.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="linear_regression_model.pkl" />
-    <Content Include="SalaryData.csv" />
+    <Content Include="data\SalaryData.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="model\" />
+    <Folder Include="data\" />
+    <Folder Include="pickle\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Web.targets" />
   <!-- Specify pre- and post-build commands in the BeforeBuild and 
