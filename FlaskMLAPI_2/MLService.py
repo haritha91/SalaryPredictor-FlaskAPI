@@ -1,5 +1,3 @@
-#from flask import Flask
-#from urllib import request
 from json import load
 from flask import Flask, request, jsonify
 from sklearn.externals import joblib
